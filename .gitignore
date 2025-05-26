@@ -4,6 +4,7 @@ localconfigs/
 logs/
 saves/
 screenshots/
+config/oculus.properties
 options.txt
 servers.dat
 usercache.json
