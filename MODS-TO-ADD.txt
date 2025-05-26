@@ -1,0 +1,42 @@
+[Terrain Generation]
+Lost Cities (IMPORTANT ONE)
+Terralith
+Oh the Biomes Youll Go
+
+[Items]
+Just Enough Guns
+Spartan Weaponry
+Grappling Hook
+Comforts (sleeping bag)
+Sophisticated Backpacks
+
+[Monsters]
+SCP 173 (Sculpture)
+SCP 096 (Sky Guy)
+The Irritator
+Siren Head (hopefully it works)
+Tissou's Zombie Pack (Resource pack)
+
+[Big Mods]
+Ad Astra
+Security Craft
+Cars
+
+[Survival Enhancement]
+Sanity: Descent into Madness
+Tough as Nails
+Serene Seasons
+
+[Basics]
+Appleskin
+JEI
+Controlling
+Mouse Tweaks
+Dynamics Sounds
+
+Alex's Mobs
+Quark
+Bloodmoon
+
+Torohealth (maybe?)
+Distant Horizons (watch out for shader compatibility)
