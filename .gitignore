@@ -1,11 +1,6 @@
 *
 !.gitignore
-!config/
 !mods/
 !resourcepacks/
 !saves/
 !shaderpacks/
-
-config/oculus.properties
-config/betterf3.toml
-cofnig/jei
