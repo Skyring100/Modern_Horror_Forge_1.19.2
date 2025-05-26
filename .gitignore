@@ -4,5 +4,7 @@ localconfigs/
 logs/
 saves/
 screenshots/
+options.txt
+servers.dat
 usercache.json
 usernamecache.json
